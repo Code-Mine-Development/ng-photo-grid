@@ -1,0 +1,23 @@
+{
+  "name": "ng-photo-grid",
+  "homepage": "https://github.com/Code-Mine-Development/ng-photo-grid",
+  "authors": [
+    "jerryc-nguyen",
+    "Radek Adamiec <radek@code-mine.com>"
+  ],
+  "description": "",
+  "main": "./js/ngPhotoGrid.js",
+  "keywords": [
+    "photo",
+    "grid",
+    "facebook"
+  ],
+  "license": "MIT",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ]
+}

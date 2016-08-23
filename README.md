@@ -1,3 +1,7 @@
+#DISCLAIM
+This package was originally created by https://github.com/jerryc-nguyen.   
+This fork was created for bower support
+
 # ng-photo-grid
 Photo grid like facebook in angular js with no dependencies. Work well when images have variety in dimension, scale images but respect ratio and improve display images in cells.
 
